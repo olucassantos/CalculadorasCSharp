@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ProjetoC\Media\bin\Debug\Media.exe.config
+C:\Users\Aluno\Desktop\ProjetoC\Media\bin\Debug\Media.exe
+C:\Users\Aluno\Desktop\ProjetoC\Media\bin\Debug\Media.pdb
+C:\Users\Aluno\Desktop\ProjetoC\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoC\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoC\Media\obj\Debug\Media.exe
+C:\Users\Aluno\Desktop\ProjetoC\Media\obj\Debug\Media.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ProjetoC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\Aluno\Desktop\ProjetoC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\Aluno\Desktop\ProjetoC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\Aluno\Desktop\ProjetoC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\Aluno\Desktop\ProjetoC\CalculoIMC\obj\Debug\CalculoIMC.pdb
