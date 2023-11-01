@@ -38,6 +38,34 @@ namespace CalculoIMC
 
             Console.WriteLine("Seu IMC é de: " + imc.ToString("N2"));
 
+            // Mostra uma mensagem de acordo com o numero do IMC
+
+            if (imc < 18.5m)
+            {
+                Console.WriteLine("Você está abaixo do peso");
+            }
+            else if (imc >= 18.5m && imc < 24.9m)
+            {
+                Console.WriteLine("Peso normal");
+            }
+            else if (imc >= 25 && imc < 29.9m)
+            {
+                Console.WriteLine("Sobrepeso");
+            }
+            else if (imc >= 30 && imc < 34.9m)
+            {
+                Console.WriteLine("Obeso I");
+            }
+            else if (imc >= 35 && imc < 39.9m)
+            {
+                Console.WriteLine("Obeso II");
+            }
+            else
+            {
+                Console.WriteLine("Obeso III ou Mórbido");
+            }
+
+
             // Espera para fechar
             Console.ReadKey();
         }

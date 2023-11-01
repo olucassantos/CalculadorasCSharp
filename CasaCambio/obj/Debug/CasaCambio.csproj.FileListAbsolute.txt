@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ProjetoC\CasaCambio\bin\Debug\CasaCambio.exe.config
+C:\Users\Aluno\Desktop\ProjetoC\CasaCambio\bin\Debug\CasaCambio.exe
+C:\Users\Aluno\Desktop\ProjetoC\CasaCambio\bin\Debug\CasaCambio.pdb
+C:\Users\Aluno\Desktop\ProjetoC\CasaCambio\obj\Debug\CasaCambio.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoC\CasaCambio\obj\Debug\CasaCambio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoC\CasaCambio\obj\Debug\CasaCambio.exe
+C:\Users\Aluno\Desktop\ProjetoC\CasaCambio\obj\Debug\CasaCambio.pdb
